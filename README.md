@@ -14,8 +14,8 @@ User can login or create account to get all the features
 
 You just have to put link or url of images into input box and the application will detect the face present in that image.
 It is fun you can give it a try.....
-![Image description](https://drive.google.com/open?id=1QMJ5k5ONLPz0jtjns-Gw_B5g-7kmwUEg)
+![Image description](https://github.com/Shashank358/faceDetection_reactApp/blob/master/Screenshot%20(3).png)
 
-![Image description](https://drive.google.com/open?id=1gWXx5qppqTJGjXa1ttv17TMA4HhfcDQj)
+![Image description](https://github.com/Shashank358/faceDetection_reactApp/blob/master/Screenshot%20(4).png)
 
 
