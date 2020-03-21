@@ -10,7 +10,7 @@ To make sure this app working follow instruction given below
 
 Here are some sample of website
 User can login or create account to get all the features
-![Image description](https://drive.google.com/open?id=1_WDruXxPKmYPxFzw4DBUQ_nOtq4i7fyG)
+![Image description](https://github.com/Shashank358/faceDetection_reactApp/blob/master/Screenshot%20(1).png)
 
 You just have to put link or url of images into input box and the application will detect the face present in that image.
 It is fun you can give it a try.....
