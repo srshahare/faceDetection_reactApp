@@ -8,3 +8,14 @@ To make sure this app working follow instruction given below
 4. type "npm run start" in cmd.
 5. Open browser......here we go.
 
+Here are some sample of website
+User can login or create account to get all the features
+![Image description](https://drive.google.com/open?id=1_WDruXxPKmYPxFzw4DBUQ_nOtq4i7fyG)
+
+You just have to put link or url of images into input box and the application will detect the face present in that image.
+It is fun you can give it a try.....
+![Image description](https://drive.google.com/open?id=1QMJ5k5ONLPz0jtjns-Gw_B5g-7kmwUEg)
+
+![Image description](https://drive.google.com/open?id=1gWXx5qppqTJGjXa1ttv17TMA4HhfcDQj)
+
+
