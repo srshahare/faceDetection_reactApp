@@ -8,3 +8,14 @@ To make sure this app working follow instruction given below
 4. type "npm run start" in cmd.
 5. Open browser......here we go.
 
+Here are some sample of website
+User can login or create account to get all the features
+![Image description](https://github.com/Shashank358/faceDetection_reactApp/blob/master/Screenshot%20(1).png)
+
+You just have to put link or url of images into input box and the application will detect the face present in that image.
+It is fun you can give it a try.....
+![Image description](https://github.com/Shashank358/faceDetection_reactApp/blob/master/Screenshot%20(3).png)
+
+![Image description](https://github.com/Shashank358/faceDetection_reactApp/blob/master/Screenshot%20(4).png)
+
+
